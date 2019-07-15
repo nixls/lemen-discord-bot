@@ -89,3 +89,6 @@ typings/
 
 # visual studio code stuff
 .vscode/
+
+# local config file
+config/config.json
