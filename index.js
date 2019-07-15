@@ -4,8 +4,9 @@ const { AkairoClient } = require('discord-akairo');
 
 const client = new AkairoClient({
     ownerID: [config.botOwnerId],
-    prefix: 'l>',
-    commandDirectory: './commands/'
+    prefix: 'l!',
+    commandDirectory: './commands/',
+    listenerDirectory: './listeners/'
 }, {
     disableEveryone: true
 });
