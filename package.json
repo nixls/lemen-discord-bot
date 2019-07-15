@@ -1,0 +1,14 @@
+{
+  "name": "lemen-discord-bot",
+  "version": "1.0.0",
+  "description": "A utility Discord bot written in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "NikiGamePlay",
+  "license": "MIT"
+}
